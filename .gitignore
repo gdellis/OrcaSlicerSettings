@@ -1,3 +1,4 @@
 .backup/
 plugins/
 log/
+*.bak
