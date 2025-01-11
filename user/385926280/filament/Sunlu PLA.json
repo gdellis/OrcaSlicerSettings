@@ -1,0 +1,22 @@
+{
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.93"
+    ],
+    "filament_settings_id": [
+        "Sunlu PLA"
+    ],
+    "filament_vendor": [
+        "Sunlu"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Basic @BBL A1",
+    "is_custom_defined": "0",
+    "name": "Sunlu PLA",
+    "textured_plate_temp_initial_layer": [
+        "70"
+    ],
+    "version": "1.9.0.1"
+}

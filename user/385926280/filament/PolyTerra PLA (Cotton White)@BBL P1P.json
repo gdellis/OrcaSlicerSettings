@@ -1,0 +1,13 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "filament_settings_id": [
+        "PolyTerra PLA (Cotton White)@BBL P1P"
+    ],
+    "from": "User",
+    "inherits": "PolyTerra PLA @BBL P1P",
+    "is_custom_defined": "0",
+    "name": "PolyTerra PLA (Cotton White)@BBL P1P",
+    "version": "1.9.0.23"
+}

@@ -1,0 +1,31 @@
+{
+    "default_filament_colour": [
+        "#D2FFD2"
+    ],
+    "filament_settings_id": [
+        "Sunlu PLA Glow In the Dark@BBL P1P"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Generic PLA @BBL P1P",
+    "is_custom_defined": "0",
+    "name": "Sunlu PLA Glow In the Dark@BBL P1P",
+    "nozzle_temperature_range_high": [
+        "225"
+    ],
+    "nozzle_temperature_range_low": [
+        "195"
+    ],
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "1.9.0.23"
+}

@@ -1,0 +1,13 @@
+{
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL P1P",
+    "initial_layer_print_height": "0.15",
+    "is_custom_defined": "0",
+    "layer_height": "0.15",
+    "name": "0.20mm Standard @BBL P1P - Sain SMART PLA Matte",
+    "print_settings_id": "0.20mm Standard @BBL P1P - Sain SMART PLA Matte",
+    "seam_position": "back",
+    "sparse_infill_pattern": "triangles",
+    "version": "1.9.0.23"
+}
