@@ -13,7 +13,6 @@
     ],
     "from": "User",
     "inherits": "Bambu PLA Basic @BBL A1",
-    "is_custom_defined": "0",
     "name": "Sunlu PLA",
     "textured_plate_temp_initial_layer": [
         "70"

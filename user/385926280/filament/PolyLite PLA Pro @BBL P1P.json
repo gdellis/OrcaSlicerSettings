@@ -13,7 +13,6 @@
     ],
     "from": "User",
     "inherits": "PolyLite PLA @BBL P1P",
-    "is_custom_defined": "0",
     "name": "PolyLite PLA Pro @BBL P1P",
     "version": "1.9.0.23"
 }

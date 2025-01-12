@@ -22,7 +22,6 @@
     ],
     "from": "User",
     "inherits": "eSUN PLA+ @BBL P1P",
-    "is_custom_defined": "0",
     "name": "PolyMaker Polylight Pro @BBL P1P",
     "nozzle_temperature": [
         "225"

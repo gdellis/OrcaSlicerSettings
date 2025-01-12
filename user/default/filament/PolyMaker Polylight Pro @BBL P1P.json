@@ -1,0 +1,34 @@
+{
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "filament_cost": [
+        "25.4"
+    ],
+    "filament_density": [
+        "1.24"
+    ],
+    "filament_max_volumetric_speed": [
+        "15"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PolyMaker Polylight Pro @BBL P1P"
+    ],
+    "filament_vendor": [
+        "PolyMaker"
+    ],
+    "from": "User",
+    "inherits": "eSUN PLA+ @BBL P1P",
+    "is_custom_defined": "0",
+    "name": "PolyMaker Polylight Pro @BBL P1P",
+    "nozzle_temperature": [
+        "225"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "version": "1.9.0.23"
+}

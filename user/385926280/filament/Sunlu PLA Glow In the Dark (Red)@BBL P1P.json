@@ -16,7 +16,6 @@
         "60"
     ],
     "inherits": "Generic PLA @BBL P1P",
-    "is_custom_defined": "0",
     "name": "Sunlu PLA Glow In the Dark (Red)@BBL P1P",
     "nozzle_temperature_range_high": [
         "225"

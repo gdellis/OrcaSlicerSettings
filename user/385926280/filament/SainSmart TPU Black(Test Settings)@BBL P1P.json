@@ -28,7 +28,6 @@
         "70"
     ],
     "inherits": "Generic TPU @BBL P1P",
-    "is_custom_defined": "0",
     "name": "SainSmart TPU Black(Test Settings)@BBL P1P",
     "nozzle_temperature": [
         "220"

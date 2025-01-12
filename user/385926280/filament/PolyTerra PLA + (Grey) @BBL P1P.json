@@ -10,6 +10,7 @@
     ],
     "from": "User",
     "inherits": "PolyTerra PLA @BBL P1P",
+    "is_custom_defined": "0",
     "name": "PolyTerra PLA + (Grey) @BBL P1P",
     "nozzle_temperature": [
         "225"
