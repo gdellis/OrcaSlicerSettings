@@ -3,3 +3,5 @@ plugins/
 log/
 *.bak
 *.7z
+.stfolder/
+.stignore
